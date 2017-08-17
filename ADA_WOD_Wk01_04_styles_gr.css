@@ -1,0 +1,49 @@
+#phbackground {
+background-color: #9b9b9b;
+padding: 24px 30px 35px 30px;
+}
+	
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+color: #515151;
+background-color: #adadad;
+padding: 15px 0px 15px 15px;
+text-align: left;
+}
+
+p {
+font-family: Helvetica, Arial, sans-serif;
+color: white;
+padding: 2px 50px 2px 2px
+text-align: left;
+}
+
+#phlevels {
+color: white;
+background-color: #bababa;
+}
+
+#alkaline {
+background: linear-gradient(rgba(43,85,255,1), rgba(43,85,255,0));
+margin: -1px;
+padding-top: 1px;
+padding-left: 8px;
+line-height: 10px;
+}
+
+.seven {
+padding: 20px 0px 20px 8px;
+margin: -1px;
+line-height: 10px;
+background: linear-gradient(rgba(56,142,48,0),rgba(56,142,48,0.7),rgba(56,142,48,1),rgba(56,142,48,0.7),rgba(56,142,48,0));
+}
+
+#acidic {
+background: linear-gradient(to top, rgba(255,61,135,1), rgba(255,61,135,0));
+padding: 6px 0px 6px 6px;
+margin: -1px;
+padding-bottom: 1px;
+padding-left: 8px;
+line-height: 10px;
+}
+

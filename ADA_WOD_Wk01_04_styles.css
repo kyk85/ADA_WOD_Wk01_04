@@ -1,0 +1,114 @@
+#phbackground {
+background-color: #9b9b9b;
+padding: 24px 30px 35px 30px;
+}
+			
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+color: #515151;
+background-color: #adadad;
+padding: 15px 0px 15px 15px;
+text-align: left;
+		}
+		
+p {
+font-family: Helvetica, Arial, sans-serif;
+color: white;
+padding: 2px 50px 2px 2px
+text-align: left;
+		}
+		
+#phlevels {
+color: white;
+background-color: #bababa;
+}
+	
+.fourteen {
+background-color: rgba(43,85,255,1);
+padding: 6px 0px 6px 6px;
+margin: 0px;
+}
+	
+.thirteen {
+background-color: rgba(43,85,255,0.85);
+padding: 6px 0px 6px 6px;
+margin: 0px;
+}
+	
+.twelve {
+background-color: rgba(43,85,255,0.75);
+padding: 6px 0px 6px 6px;
+margin: 0px;
+}
+		
+.eleven {
+background-color: rgba(43,85,255,0.65);
+padding: 6px 0px 6px 6px;
+margin: 0px;
+}
+		
+.ten {
+background-color: rgba(43,85,255,0.55);
+padding: 6px 0px 6px 6px;
+margin: 0px;
+}
+		
+.nine {
+background-color: rgba(43,85,255,0.4);
+padding: 6px 0px 6px 6px;
+margin: 0px;
+}
+
+.eight {
+background-color: rgba(43,85,255,0.3);
+padding: 6px 0px 6px 6px;
+margin: 0px;
+}
+
+.seven {
+background-color: #51994a;
+padding: 6px 0px 6px 6px;
+margin: 0px;
+}
+
+.six {
+background-color: rgba(255,61,135,0.3);
+padding: 6px 0px 6px 6px;
+margin: 0px;
+}
+
+.five {
+background-color: rgba(255,61,135,0.4);
+padding: 6px 0px 6px 6px;
+margin: 0px;
+}
+
+.four {
+background-color: rgba(255,61,135,0.55);
+padding: 6px 0px 6px 6px;
+margin: 0px;
+}
+
+.three {
+background-color: rgba(255,61,135,0.65);
+padding: 6px 0px 6px 6px;
+margin: 0px;
+}
+
+.two {
+background-color: rgba(255,61,135,0.75);
+padding: 6px 0px 6px 6px;
+margin: 0px;
+}
+
+.one {
+background-color: rgba(255,61,135,0.85);
+padding: 6px 0px 6px 6px;
+margin: 0px;
+}
+
+.zero {
+background-color: rgba(255,61,135,1);
+padding: 6px 0px 6px 6px;
+margin: 0px;
+}
